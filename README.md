@@ -1,9 +1,9 @@
 # White-Devil-BD 
 
-#installation Guide termux
+<br>#installation Guide termux
 
-#pkg update
-#pkg upgrade 
-#pkg install git
-#git clone https://github.com/TuserAhammed/White-Devil-BD.git 
+<br>#pkg update
+<br>#pkg upgrade 
+<br>#pkg install git
+<br>#git clone https://github.com/TuserAhammed/White-Devil-BD.git 
 
