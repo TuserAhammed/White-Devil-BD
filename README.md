@@ -31,6 +31,6 @@ Run Botnet option (2)
 
 unlock LOGIN INFO..
 
-Username : wh-hackerexploit
+Username : admin
 
-password : wh-botnet
+password : Tuser
