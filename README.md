@@ -1,8 +1,8 @@
 <p align="center">
 
-<img src="https://github.com/TuserAhammed/White-Devil-BD/blob/main/ic_launcher.png" height="60"><br>
+<img src="https://github.com/TuserAhammed/White-Devil-BD/blob/main/ic_launcher.png" height="120"><br>
 
-A cloud based Android Monitoring Tool, powered by NodeJS
+White Devil 😈 BD
 
 </p>
 
