@@ -8,7 +8,7 @@
 <br>4 git clone https://github.com/TuserAhammed/White-Devil-BD.git 
 
 <br>_______________________
-Features
+Features _______________________
 
 <br>•GPS Logging
 
@@ -57,7 +57,7 @@ Features
 
 
 
-<br>Admin Pannel Login Information
+<br>_______________________Admin Pannel Login Information_______________________
 
 Username : admin
 
