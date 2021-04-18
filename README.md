@@ -57,7 +57,8 @@ Features _______________________
 
 
 
-<br>_______________________Admin Pannel Login Information_______________________
+<br>_______________________
+Admin Pannel Login Information_______________________
 
 Username : admin
 
