@@ -43,7 +43,7 @@ White Devil 😈 BD
 
  - NodeJs 
 
- - A Server with Static IP Address
+ - A Server with Static IP Address or Port Forwarding
 
 ## Installation 
 
