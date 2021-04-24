@@ -79,9 +79,25 @@ White Devil 😈 BD
 
     - `bash install.sh` <- install dependencies and Run The SYSTEM
 
-6. In your browser navigate to your Server Static IP Address` Ex.: http://localhost:22533/`
+6.Start Hacking System
 
-7. Login details
+    - Run
+
+        - `pm2 start index.js`
+
+7.Stop Hacking System
+
+    - Stop
+
+        - `pm2 kill`
+
+
+
+
+
+8. In your browser navigate to your Server Static IP Address` Ex.: http://localhost:22533/`
+
+9. Login details
 
      - `Username : admin`
 
