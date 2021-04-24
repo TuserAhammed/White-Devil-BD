@@ -81,7 +81,7 @@ White Devil 😈 BD
 
 6.Start Hacking System
 
-    - Run
+    Run
 
         - `pm2 start index.js`
 
