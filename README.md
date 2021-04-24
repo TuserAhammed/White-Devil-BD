@@ -75,17 +75,17 @@ White Devil 😈 BD
 
    - `cd White-Devil-BD`
 
-5. In this directory, run these commands
+6. In this directory, run these commands
 
     - `bash install.sh` <- install dependencies and Run The SYSTEM
 
-6.Start Hacking System
+7.Start Hacking System
 
-    Run
+    - Run
 
         - `pm2 start index.js`
 
-7.Stop Hacking System
+8.Stop Hacking System
 
     - Stop
 
@@ -95,9 +95,9 @@ White Devil 😈 BD
 
 
 
-8. In your browser navigate to your Server Static IP Address` Ex.: http://localhost:22533/`
+9. In your browser navigate to your Server Static IP Address` Ex.: http://localhost:22533/`
 
-9. Login details
+10. Login details
 
      - `Username : admin`
 
