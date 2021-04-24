@@ -79,13 +79,13 @@ White Devil 😈 BD
 
     - `bash install.sh` <- install dependencies and Run The SYSTEM
 
-7.Start Hacking System
+7. Start Hacking System
 
     - Run
 
         - `pm2 start index.js`
 
-8.Stop Hacking System
+8. Stop Hacking System
 
     - Stop
 
