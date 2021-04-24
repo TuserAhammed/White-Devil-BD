@@ -77,7 +77,7 @@ White Devil 😈 BD
 
 5. In this directory, run these commands
 
-    - `bash all-linux.sh` <- install dependencies and Run The SYSTEM
+    - `bash install.sh` <- install dependencies and Run The SYSTEM
 
 6. In your browser navigate to your Server Static IP Address` Ex.: http://localhost:22533/`
 
