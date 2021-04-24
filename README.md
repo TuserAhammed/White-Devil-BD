@@ -95,7 +95,8 @@ White Devil 😈 BD
 
 
 
-9. In your browser navigate to your Server Static IP Address - `http://localhost:22533/`
+9. In your browser navigate to your Server Static IP Address 
+- `http://localhost:22533/`
 
 10. Login details
 
